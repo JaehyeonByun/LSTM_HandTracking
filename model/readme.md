@@ -1,0 +1,1 @@
+load .pth file will be done with torch.load(). for detailm follow the pytorch torch.save and torch.load document.
